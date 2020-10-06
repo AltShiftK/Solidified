@@ -42,6 +42,9 @@ Examples of some games with some related concepts:
   * Multiple Pathways
     * Gives players choices.
   * Random Generation
+  * Change State of Water from a liquid to solid to get to different places
+  * Timed Levels have a wall that approches the player that instantly kill the player for a stressful game.
+  * 
 
 
 **Twists**
