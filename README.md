@@ -2,11 +2,11 @@
 
 ## Table Of Contents
 
- 1. [Story](https://github.com/coolman221/UnityGame/blob/main/README.md#story)
- 2. [Characters](https://github.com/coolman221/UnityGame/blob/main/README.md#characters)
- 3. [Gameplay](https://github.com/coolman221/UnityGame/blob/main/README.md#gameplay)
- 4. [Challenges](https://github.com/coolman221/UnityGame/blob/main/README.md#challenges)
- 5. [Levels](https://github.com/coolman221/UnityGame/blob/main/README.md#levels)
+ 1. [Story](https://github.com/coolman221/Solidified#story)
+ 2. [Characters](https://github.com/coolman221/Solidified#characters)
+ 3. [Gameplay](https://github.com/coolman221/Solidified#gameplay)
+ 4. [Challenges](https://github.com/coolman221/Solidified#challenges)
+ 5. [Levels](https://github.com/coolman221/Solidified#levels)
 
 
 ## Story
@@ -56,4 +56,4 @@ Examples of some games with some related concepts:
 ## Levels
 
 
-[**Go To Top**](https://github.com/coolman221/UnityGame/blob/main/README.md#unitygame-game-bible)
+[**Go To Top**](https://github.com/coolman221/Solidified/blob/main/README.md#solidified-game-bible)
