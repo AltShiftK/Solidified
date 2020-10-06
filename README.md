@@ -1,4 +1,4 @@
-# UnityGame Game Bible
+# Solidified Game Bible
 
 ## Table Of Contents
 
