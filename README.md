@@ -4,8 +4,8 @@
 
  1. [Overview](https://github.com/coolman221/Solidified#overview)
  2. [Characters](https://github.com/coolman221/Solidified#characters)
- 3. [Gameplay](https://github.com/coolman221/Solidified#gameplay)
- 4. [Story](https://github.com/coolman221/Solidified#story)
+ 3. [Story](https://github.com/coolman221/Solidified#story)
+ 4. [Gameplay](https://github.com/coolman221/Solidified#gameplay)
  5. [Challenges](https://github.com/coolman221/Solidified#challenges)
  6. [Levels](https://github.com/coolman221/Solidified#levels)
 
