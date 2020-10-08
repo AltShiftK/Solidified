@@ -43,23 +43,23 @@ Examples of some games with some related concepts:
  * Simple States
   
   * Solidification
-   * Making liquids solid
-   * Can't make certian liquids solid
-   * Interacting with objects changes their state from liquid to solid
+    * Making liquids solid
+    * Can't make certian liquids solid
+    * Interacting with objects changes their state from liquid to solid
   
   * Liquification
-   * Basic Terrain cannot be changed
-   * Allows you to travel through liquid
-   * Certain Objects can be liquified
-   * Certian areas are accessed with liquifica
+    * Basic Terrain cannot be changed
+    * Allows you to travel through liquid
+    * Certain Objects can be liquified
+    * Certian areas are accessed with liquifica
   
   * Evaporation
-   * Ghost-like figure
-    * Wall clipping
-    * Transparency
-     * Projectiles don't collide with the player
-     * Affects visibility for AI/Traps
-    * Limited Flight
+    * Ghost-like figure
+      * Wall clipping
+      * Transparency
+        * Projectiles don't collide with the player
+        * Affects visibility for AI/Traps
+      * Limited Flight
    
   
 ### Mechanics
